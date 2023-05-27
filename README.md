@@ -36,7 +36,7 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 > ![Capturaaaae](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/assets/86733574/212ebfd3-9f9c-41a4-b641-31b0f6af976d)
 > 
 - Install the script from [here](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/releases/tag/v0.1)
-- Launch the script and choose whether recording config or gaming config.
+- Launch the script and choose whether recording config or gaming config and follow the instructions in the script.
 
 <!-- /TOC -->
 ## Credits
