@@ -7,8 +7,6 @@ Disclaimer: use this at your own risk!! I am not responsable for any bans result
 <!-- TOC -->
 
   - [Introduction](#introduction)
-  - [Installation](#installation)
-  - [Launching other versions of Overwatch](#launching-other-versions-of-overwatch)
   - [Credits](#credits)
 
 <!-- /TOC -->
