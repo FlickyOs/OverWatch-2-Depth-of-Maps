@@ -21,10 +21,10 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 
 <!-- /TOC -->
 ### Usage
- - Navigate to **"C:\Users\%usernames%\Documents\Overwatch\Settings"** and copy paste **"Settings_v0"** and name the new one **"gaming.ini"**
+ - Navigate to **"C:\Users\\%usernames%\Documents\Overwatch\Settings"** and copy paste **"Settings_v0"** and name the new one **"gaming.ini"**
 > **NOTE**: `gaming.ini` should be your gaming/competitive settings config.
 
  - Open the game and change the graphics settings to high and save it.
 
- - Close the game and navigate to **"C:\Users\%usernames%\Documents\Overwatch\Settings"** and name the current **"Settings_v0"** to **"movie.ini"** 
+ - Close the game and navigate to **"C:\Users\\%usernames%\Documents\Overwatch\Settings"** and name the current **"Settings_v0"** to **"movie.ini"** 
 > **NOTE**: `movie.ini` should be your recording/high settings config.
