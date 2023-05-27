@@ -14,7 +14,7 @@ Disclaimer: use this at your own risk!! I am not responsable for any bans result
 
 <!-- /TOC -->
 ## Introduction
-Welcome to my repository!! The script uses **Nvidia Freestyle** for customising the game’s appearance through the application of real-time post-processing filters. With Freestyle’s Filters, you can be more creative with your edits/games.If you face and issues contact me via discord **Flicky#0920**
+Welcome to my repository!! The script uses **Nvidia Freestyle** for customising the game’s appearance through the application of real-time post-processing filters. With Freestyle’s Filters, you can be more creative with your edits/games.If you face any issues contact me via discord **Flicky#0920**
 
 <!-- /TOC -->
 ## Requirements
