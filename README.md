@@ -2,6 +2,9 @@
 A bat file lets you run depth-of-field in Overwatch.
 
 ![final](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/assets/86733574/766dadd5-0f33-45d5-b5bc-aaa30abfca05)
+<!-- TOC -->
+![weewee](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/assets/86733574/b9f608a3-8a13-46d8-8d9e-2473d70f3c9a)
+
 
 Disclaimer: use this at your own risk!! I am not responsable for any bans resulting in you using this bat.
 <!-- TOC -->
@@ -29,3 +32,4 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 
  - Close the game and navigate to **"C:\Users\\%usernames%\Documents\Overwatch\Settings"** and name the current **"Settings_v0"** to **"movie.ini"** 
 > **NOTE**: `movie.ini` should be your recording/high settings config.
+
