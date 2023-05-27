@@ -4,7 +4,7 @@ A bat file lets you run depth-of-field in Overwatch.
 ![final](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/assets/86733574/5647be49-bfc4-467c-aba6-6ea8fba02a72)
 
 
-Disclaimer: use this at your own risk!! I am not responsable for any bans resulting in you using this bat.
+Disclaimer: use this at your own risk!! I am not responsable for any bans resulting from using this bat.
 <!-- TOC -->
 
   - [Introduction](#introduction)
@@ -18,7 +18,7 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 
 <!-- /TOC -->
 ## Requirements
-
+- Stock graphics card driver - 461.92 or higher
 - Nvidia graphics card - GTX 1060 or higher
 - Windows 10/11 version/winver 1809+
 
