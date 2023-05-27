@@ -11,13 +11,16 @@ Disclaimer: use this at your own risk!! I am not responsable for any bans result
 
 <!-- /TOC -->
 ## Introduction
-Welcome to my repository! **Nvidia Freestyle** is a way for you to personally customize a game’s appearance through the application of real-time post-processing filters. With Freestyle’s options you can be more creative with your games.
+Welcome to my repository!! The script uses **Nvidia Freestyle** for customising the game’s appearance through the application of real-time post-processing filters. With Freestyle’s Filters, you can be more creative with your edits/games.
 
 <!-- /TOC -->
 ## Requirements
 
-- An Nvidia graphics card - GTX 1060 or better recommended
-- Windows 10 version/winver 1809+
+- Nvidia graphics card - GTX 1060 or higher
+- Windows 10/11 version/winver 1809+
 
 <!-- /TOC -->
 ### Usage
+ - Navigate to **"C:\Users\%usernames%\Documents\Overwatch\Settings"** and copy paste **"Settings_v0"** and name the new one **"gaming.ini"** (gaming.ini should be your gaming/competitive settings config).
+ - Open the game and change the graphics settings to high and save it.
+ -Close the game and navigate to **"C:\Users\%usernames%\Documents\Overwatch\Settings"** and name the current **"Settings_v0"** to **"movie.ini"** (movie.ini should be your recording/high settings config).
