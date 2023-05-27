@@ -34,5 +34,5 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 
 <!-- /TOC -->
 ## Credits
- [Kyy - Overwatch Editing server](https://discord.gg/EXuG82n)
+ [Kyy - Overwatch Editing server](https://discord.gg/EdddxUd7gS)
 
