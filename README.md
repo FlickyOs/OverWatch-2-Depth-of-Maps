@@ -34,5 +34,5 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 
 <!-- /TOC -->
 ## Credits
- [Kyy - Overwatch Editing server][![Discord](https://img.shields.io/discord/743941628020129853.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EXuG82n)
+ [Kyy - Overwatch Editing server](https://discord.gg/EXuG82n)
 
