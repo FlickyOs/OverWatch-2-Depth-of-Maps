@@ -30,4 +30,9 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 
  - Close the game and navigate to **"C:\Users\\%usernames%\Documents\Overwatch\Settings"** and name the current **"Settings_v0"** to **"movie.ini"** 
 > **NOTE**: `movie.ini` should be your recording/high settings config.
+- Launch the script and choose whether recording config or gaming config.
+
+<!-- /TOC -->
+## Credits
+ [Kyy - Overwatch Editing server][![Discord](https://img.shields.io/discord/743941628020129853.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EXuG82n)
 
