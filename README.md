@@ -7,6 +7,7 @@ Disclaimer: use this at your own risk!! I am not responsable for any bans result
 <!-- TOC -->
 
   - [Introduction](#introduction)
+  - [Usage](#usage)
   - [Credits](#credits)
 
 <!-- /TOC -->
@@ -20,7 +21,7 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 - Windows 10/11 version/winver 1809+
 
 <!-- /TOC -->
-### Usage
+## Usage
  - Navigate to **"C:\Users\\%usernames%\Documents\Overwatch\Settings"** and copy paste **"Settings_v0"** and name the new one **"gaming.ini"**
 > **NOTE**: `gaming.ini` should be your gaming/competitive settings config.
 
