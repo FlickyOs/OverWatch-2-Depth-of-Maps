@@ -8,6 +8,7 @@ Disclaimer: use this at your own risk!! I am not responsable for any bans result
 <!-- TOC -->
 
   - [Introduction](#introduction)
+  - [Requirements](#requirements)
   - [Usage](#usage)
   - [Credits](#credits)
 
