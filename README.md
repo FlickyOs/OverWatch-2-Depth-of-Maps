@@ -37,6 +37,8 @@ Welcome to my repository!! The script uses **Nvidia Freestyle** for customising 
 >![Capturaaaaeeeeeeeeeeeeeeeeeeeee](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/assets/86733574/cc752f5e-bac4-4f0e-87f5-d1ac516d78f5)
 >
 - Install the Ansel folder from [here](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/files/14795737/Ansel.zip)
+- Exctract the folder in "C:\Program Files\NVIDIA Corporation"
+- The path should be "C:\Program Files\NVIDIA Corporation\Ansel"
 - Install the script from [here](https://github.com/FlickyOs/OverWatch-2-Depth-of-Maps/releases/download/v0.1/ow2-dof.bat)
 - Launch the script and choose whether recording config or gaming config and follow the instructions in the script.
 
